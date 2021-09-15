@@ -8,6 +8,6 @@ yarn build
 
 ## Import
 
-```sh
+```js
 import { ActivityIcon } from 'react-icons-example'
 ```

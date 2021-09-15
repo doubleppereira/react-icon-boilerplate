@@ -9,5 +9,5 @@ yarn build
 ## Import
 
 ```js
-import { ActivityIcon } from 'react-icons-example'
+import { AddCircleIcon } from 'react-icons-example'
 ```

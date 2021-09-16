@@ -11,6 +11,7 @@ module.exports = {
     'removeDimensions',
     'removeScriptElement',
     'removeDimensions',
+    // Uncomment these options if you want to have cleaner optimized icons.
     // {
     //   name: 'removeElementsByAttr',
     //   params: {

@@ -1,4 +1,4 @@
-# React SVG icons library example
+# React SVG icons library boilerplate
 
 ## Build
 
@@ -9,5 +9,5 @@ yarn build
 ## Import
 
 ```js
-import { AddCircleIcon } from 'react-icons-example'
+import { PlusOutlineIcon } from 'react-icons-boilerplate'
 ```

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>6AECC10F-DB33-432F-BDA7-459333AF0553</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="24" height="24"></rect>
+    </defs>
+    <g id="200720" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="TP.io---Documentation---Icons" transform="translate(-444.000000, -709.000000)">
+            <g id="Small---24-x-24px" transform="translate(208.000000, 141.000000)">
+                <g id="Icons/Guideline-Preview" transform="translate(176.000000, 528.000000)">
+                    <g id="Burger" transform="translate(60.000000, 40.000000)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <use id="Mask" fill-opacity="0" fill="#FFFFFF" xlink:href="#path-1"></use>
+                        <path d="M20,17 L20,19 L4,19 L4,17 L20,17 Z M20,11 L20,13 L4,13 L4,11 L20,11 Z M20,5 L20,7 L4,7 L4,5 L20,5 Z" id="Combined-Shape" fill="#00497A" mask="url(#mask-2)"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

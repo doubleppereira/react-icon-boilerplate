@@ -1,13 +1,7 @@
 # React SVG icons library boilerplate
 
-## Build
+The boilerplate to create a standalone React icons library from your SVG files.
 
-```sh
-yarn build
-```
+## Resouce
 
-## Import
-
-```js
-import { PlusOutlineIcon } from 'react-icons-boilerplate'
-```
+[dev.to](https://dev.to/quanpham/create-your-own-react-icons-library-and-publish-to-npm-automatically-4i11)
